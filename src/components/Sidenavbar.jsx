@@ -1,7 +1,17 @@
 import React from "react";
 
 const Sidenavbar = () => {
-  return <div>Sidenavbar</div>;
+  return <div>sidebar</div>;
+
+
+
+
+
+
+
+
+
+  
 };
 
 export default Sidenavbar;
