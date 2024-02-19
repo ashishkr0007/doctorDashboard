@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import Image from "next/image";
 import Active from "./../components/Active";
 import ActivePatient from "./../components/ActivePatient";
@@ -10,6 +11,8 @@ import Sidenavbar from "./../components/Sidenavbar";
 import Statistic from "./../components/Statistic";
 import Teameting from "./../components/Teameting";
 import Upcomingevent from "./../components/Upcomingevent";
+=======
+>>>>>>> d540b9b9826a69409202b8cb92f4de00d302c76c
 
 export default function Home() {
   return (
